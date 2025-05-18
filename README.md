@@ -11,6 +11,6 @@ Proyek ini adalah implementasi pipeline **ETL (Extract, Transform, Load)** seder
    pip install -r requirements.txt
    ```
 3. **Jalankan Pipeline**:
-  ```
+   ```
    python main.py
-  ```
+   ```
